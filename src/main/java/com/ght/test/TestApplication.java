@@ -17,4 +17,7 @@ public class TestApplication {
     public void finduser2(){
 
     }
+
+    public void finduser1(){}
+
 }
