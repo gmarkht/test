@@ -13,4 +13,8 @@ public class TestApplication {
     public void finuser(){
 
     }
+
+    public void finduser2(){
+
+    }
 }
