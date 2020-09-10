@@ -26,4 +26,8 @@ public class TestApplication {
     public void kongyu(){
 
     }
+
+    public void test(){
+        //test 2019.2
+    }
 }
