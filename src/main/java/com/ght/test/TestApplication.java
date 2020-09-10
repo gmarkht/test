@@ -23,4 +23,7 @@ public class TestApplication {
     public void genghaotian(){
 
     }
+    public void kongyu(){
+
+    }
 }
