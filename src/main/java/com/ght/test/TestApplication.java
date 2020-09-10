@@ -20,4 +20,7 @@ public class TestApplication {
 
     public void finduser1(){}
 
+    public void genghaotian(){
+
+    }
 }
